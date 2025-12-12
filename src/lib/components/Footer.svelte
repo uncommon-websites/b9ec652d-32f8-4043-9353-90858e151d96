@@ -3,73 +3,59 @@
     <div class="grid grid-cols-2 md:grid-cols-5 gap-12 mb-24">
       <!-- Col 1 -->
       <div class="flex flex-col gap-4">
-        <h4 class="text-gray-500 mb-2">Investors —</h4>
-        <a href="/" class="hover:text-gray-300">Private group investing</a>
-        <a href="/" class="hover:text-gray-300">Sonar</a>
+        <h4 class="text-gray-500 mb-2">Trading —</h4>
+        <a href="/" class="hover:text-gray-300">Start trading</a>
+        <a href="/" class="hover:text-gray-300">Markets</a>
       </div>
 
       <!-- Col 2 -->
       <div class="flex flex-col gap-4">
-        <h4 class="text-gray-500 mb-2">Founders —</h4>
-        <a href="/" class="hover:text-gray-300">Raise with us</a>
+        <h4 class="text-gray-500 mb-2">Developers —</h4>
+        <a href="/" class="hover:text-gray-300">Documentation</a>
+        <a href="/" class="hover:text-gray-300">API</a>
       </div>
 
       <!-- Col 3 -->
       <div class="flex flex-col gap-4">
-        <h4 class="text-gray-500 mb-2">All —</h4>
+        <h4 class="text-gray-500 mb-2">Resources —</h4>
         <a href="/" class="hover:text-gray-300">Support</a>
         <a href="/" class="hover:text-gray-300">Brand kit</a>
+        <a href="/" class="hover:text-gray-300">Blog</a>
       </div>
 
       <!-- Col 4 -->
       <div class="flex flex-col gap-4">
         <h4 class="text-gray-500 mb-2">Legal —</h4>
         <div class="flex flex-col gap-2">
-          <div class="flex gap-1">
-            <span class="text-gray-400">Echo</span>
-            <a href="/" class="text-gray-600 hover:text-gray-400">Terms</a>
-          </div>
-          <div class="flex gap-1">
-            <span class="text-gray-400">Echo</span>
-            <a href="/" class="text-gray-600 hover:text-gray-400">Privacy</a>
-          </div>
-        </div>
-        <div class="flex flex-col gap-2 mt-2">
-          <div class="flex gap-1">
-            <span class="text-gray-400">Sonar</span>
-            <a href="/" class="text-gray-600 hover:text-gray-400">Terms</a>
-          </div>
-          <div class="flex gap-1">
-            <span class="text-gray-400">Sonar</span>
-            <a href="/" class="text-gray-600 hover:text-gray-400">Privacy</a>
-          </div>
+          <a href="/" class="text-gray-600 hover:text-gray-400">Terms of Service</a>
+          <a href="/" class="text-gray-600 hover:text-gray-400">Privacy Policy</a>
         </div>
       </div>
 
       <!-- Col 5 (Contact) -->
       <div class="flex flex-col gap-4 items-start md:items-end">
-        <a href="mailto:support@echo.xyz" class="font-medium border-b border-white pb-0.5 hover:opacity-80">support@echo.xyz</a>
-        <a href="/" class="font-medium border-b border-white pb-0.5 hover:opacity-80">@echodotxyz</a>
+        <a href="mailto:support@lighter.xyz" class="font-medium border-b border-white pb-0.5 hover:opacity-80">support@lighter.xyz</a>
+        <a href="/" class="font-medium border-b border-white pb-0.5 hover:opacity-80">@lighter_xyz</a>
       </div>
     </div>
 
     <!-- Bottom Legal Text -->
     <div class="border-t border-gray-900 pt-12 text-[11px] text-gray-600 leading-relaxed flex flex-col gap-6">
       <p>
-        Echo's use and transfer to any other app of information received from Google Accounts will adhere to <a href="/" class="underline">Google API Services User Data Policy</a>, including the Limited Use requirements
+        Trading cryptocurrencies involves substantial risk of loss and is not suitable for every investor. The valuation of cryptocurrencies may fluctuate, and, as a result, you may lose more than your original investment.
       </p>
       <p>
-        Echo does not provide investment advice to investors, and the information on this page should not be relied upon as research, investment advice or a recommendation of any kind. Investments in startups and early stage businesses are inherently risky and highly illiquid. These types of investments are suitable only for qualified, sophisticated investors who can afford to bear the risk of losing the entirety of their investment capital, and Echo's Services, including access to the platform, are limited to these qualified investors.
+        Lighter is a decentralized trading platform. The information provided on this website does not constitute investment advice, financial advice, trading advice, or any other sort of advice. You should not treat any of the website's content as such. Lighter does not recommend that any cryptocurrency should be bought, sold, or held by you. Do conduct your own due diligence and consult your financial advisor before making any investment decisions.
       </p>
       <p>
-        The content of this promotion has not been approved by an authorised person within the meaning of the Financial Services and Markets Act 2000. Reliance on this promotion for the purpose of engaging in any investment activity may expose an individual to a significant risk of losing all of the property or other assets invested. The materials on this page are provided for informational and educational purposes only. Nothing on this page shall constitute or imply, and should not be interpreted as, an offer or solicitation of an offer to acquire an interest in any vehicle or other security of any kind.
+        The materials on this page are provided for informational and educational purposes only. Nothing on this page shall constitute or imply, and should not be interpreted as, an offer or solicitation to buy or sell any cryptocurrency or digital asset.
       </p>
     </div>
 
     <div class="mt-12 flex items-center gap-4 text-xs text-gray-500">
       <div class="flex items-center gap-1 font-bold text-white tracking-wide">
         <div class="w-[2px] h-3 bg-white"></div>
-        ECHO
+        LIGHTER
       </div>
       <span>© 2025 All rights reserved</span>
     </div>

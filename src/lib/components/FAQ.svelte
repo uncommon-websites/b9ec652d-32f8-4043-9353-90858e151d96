@@ -7,13 +7,13 @@
   }
 
   const faqs: FAQItem[] = [
-    { question: "Do I have to trust the lead investor with my investment?", answer: "Details about trust and lead investors..." },
-    { question: "How does Echo work?", answer: "Echo works by connecting..." },
-    { question: "I want to share my deals. Can I start a group?", answer: "Yes, you can start a group by..." },
-    { question: "I'm a founder. How do I raise money from Echo?", answer: "Founders can raise money by..." },
-    { question: "Is everyone eligible to use Echo?", answer: "Eligibility depends on..." },
-    { question: "Why do founders raise from Echo groups?", answer: "Founders choose Echo because..." },
-    { question: "Why would someone share their deals with me?", answer: "Sharing deals allows for..." }
+    { question: "How does Lighter achieve zero-fee trading?", answer: "Lighter uses a custom ZK rollup infrastructure that batches transactions and proves them on Ethereum. This allows us to eliminate trading fees while maintaining full security and verifiability." },
+    { question: "What is a ZK rollup?", answer: "A ZK (Zero-Knowledge) rollup is a Layer 2 scaling solution that executes transactions off-chain and posts cryptographic proofs to Ethereum. This gives you the speed of centralized exchanges with the security of Ethereum." },
+    { question: "How are my funds secured?", answer: "All operations are cryptographically proven and settled on Ethereum. You maintain full custody of your assets, and every trade is verifiable on-chain. There's no need to trust a centralized entity." },
+    { question: "What makes Lighter different from other DEXs?", answer: "Lighter combines zero fees, instant execution, and Ethereum security through custom ZK rollup technology. Unlike traditional DEXs with high gas fees or centralized exchanges requiring trust, Lighter offers the best of both worlds." },
+    { question: "Can I verify my trades on-chain?", answer: "Yes, all trades are proven on Ethereum using zero-knowledge proofs. You can verify any transaction through our block explorer or directly on the Ethereum blockchain." },
+    { question: "What assets can I trade on Lighter?", answer: "Lighter supports major cryptocurrencies and tokens. Our platform is designed for crypto traders who need instant, low-cost trades in the DeFi ecosystem." },
+    { question: "How fast are trades executed?", answer: "Trades are executed instantly off-chain and batched into proofs that are posted to Ethereum. You get sub-second execution with the security of on-chain settlement." }
   ];
 
   let openIndex: number | null = null;
